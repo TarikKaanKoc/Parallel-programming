@@ -1,7 +1,7 @@
 <h1 align="center">🎓💻📚 Parallel Programming Lesson ~ Homework 👨‍💻</h1>
 
 <div align="center">
-    <strong>This project is a homework assignment given by Hamit Mızrak for the Parallel Programming course at Malatya Turgut Özal University. It involves using multi-threading to sequentially collect user data and write it to specified text files.</strong>
+    <strong>This project is a homework assignment given by Hamit Mızrak for the Parallel Programming lesson at Malatya Turgut Özal University. It involves using multi-threading to sequentially collect user data and write it to specified text files.</strong>
 </div>
 <br/>
 
